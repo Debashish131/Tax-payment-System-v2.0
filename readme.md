@@ -1,3 +1,5 @@
+<p align="center">This project i fixed some issue that i got problem in older project</p>
+<p align="center>Happy to use code</p>
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
